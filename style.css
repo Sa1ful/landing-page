@@ -93,6 +93,7 @@ a {
   border-radius: 8px;
   color: #F9FAF8;
   font-weight: 900;
+  border: solid #E5E7EB;
 }
 
 .section2 {
@@ -179,6 +180,7 @@ a {
   font-weight: 900;
   box-shadow: 8px;
   margin: 100px;
+  border: solid #E5E7EB;
 }
 
 .footer {
